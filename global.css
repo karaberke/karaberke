@@ -1,0 +1,27 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --grape: 114, 35, 204;
+  --light: #d8dbe0;
+  --dark: #28292c;
+}
+
+@layer base {
+  .text-edge-outline {
+    -webkit-text-stroke: 1px rgba(255, 255, 255, 0.3);
+  }
+  .bg-light {
+    background-color: var(--light);
+  }
+  .bg-dark {
+    background-color: var(--dark);
+  }
+  .text-light {
+    color: var(--light);
+  }
+  .text-dark {
+    color: var(--dark);
+  }
+}
