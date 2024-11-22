@@ -1,4 +1,4 @@
-// File: /home/berke/Documents/VSCODE/Website/karaberke/app/about/page.tsx
+// File: C:\Users\sbkar\Documents\VSCode\karaberke\app\about\page.tsx
 import * as entry from '../../../../app/about/page.js'
 import type { ResolvingMetadata } from 'next/dist/lib/metadata/types/metadata-interface.js'
 
