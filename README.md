@@ -2,7 +2,7 @@
 
 <!-- LuminRAG facts refreshed October 28, 2026 against commit 159a413. Canvas coursework descriptions checked November 1, 2026. -->
 
-Computer science senior at **UT Austin** ('27) and Software Engineer Intern & Project Lead at **Idaho National Laboratory**. I build backend systems, LLM tooling, and retrieval pipelines, and I care about concurrency, testing, and efficient inference.
+Computer science senior at **UT Austin** ('27) and Software Engineer Intern & Project Lead at **Idaho National Laboratory**. I build backend systems, LLM tooling, and RAG systems.
 
 ## Featured work
 
