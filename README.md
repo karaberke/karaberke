@@ -17,12 +17,12 @@ Computer science senior at **UT Austin** ('27) and Software Engineer Intern & Pr
 
 ## Selected coursework projects
 
-These are course projects; the assignment code is not published here.
+These are course projects. The linked repositories are cleaned portfolio copies of the submitted source; their READMEs describe supplied scaffolds and reproduction limits.
 
 | Project | Work | Tools |
 |---|---|---|
-| Energy-aware CPU scheduling | Implemented a scheduling policy and compared 15 policies in a course-provided eight-core simulator. The selected policy used 83% less **simulated** energy than the provided round-robin baseline. | C++ |
-| Cloud-native deployment | Completed container and Kubernetes assignments and submitted a Helm exercise using Minikube, kubectl, separate releases and namespaces, and a Flask endpoint with the Kubernetes Python client. | Docker, Kubernetes, Helm, Flask |
+| [Energy-aware CPU scheduling](https://github.com/karaberke/energy-aware-cpu-scheduler) | Implemented a scheduling policy and compared 15 policies in a course-provided eight-core simulator. The selected policy used 83% less **simulated** energy than the provided round-robin baseline. | C++ |
+| [Containers](https://github.com/karaberke/canvas-container-greetings) / [Kubernetes](https://github.com/karaberke/canvas-kubernetes-greetings) / [Helm](https://github.com/karaberke/canvas-helm-greetings) | Completed container and Kubernetes assignments and submitted a Helm exercise using Minikube, kubectl, separate releases and namespaces, and a Flask endpoint with the Kubernetes Python client. | Docker, Kubernetes, Helm, Flask |
 | Database systems | Contributed to group projects covering MySQL, database design, PostgreSQL on AWS, MongoDB, and Neo4j. | SQL, PostgreSQL, MongoDB, Neo4j |
 
 ## Tools
